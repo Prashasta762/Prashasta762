@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on making games
-- 📫 You can email me on prashastavaissh.8c@gmail.com
+- 📫 You can email me on prashastavaish.8c@gmail.com
 
 <!---
 Prashasta762/Prashasta762 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
